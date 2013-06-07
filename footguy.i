@@ -18,7 +18,7 @@
         DO ,2SUB#1 <- #228
         DO ,2SUB#2 <- #22
         PLEASE DO .2 <- #1
-               DO ABSTAIN FROM        (31)
+        DO ABSTAIN FROM        (31)
         DO COME FROM (30)
         DO COME FROM (35)
         DO READ OUT ,2
